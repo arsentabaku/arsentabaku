@@ -37,7 +37,6 @@
   <img src="https://custom-icon-badges.herokuapp.com/badge/-Angular-db4618?style=flat&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://custom-icon-badges.herokuapp.com/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white" alt="RxJS"/>
   <img src="https://custom-icon-badges.herokuapp.com/badge/-Next.js-1c1918?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://custom-icon-badges.herokuapp.com/badge/-Node.js-3c873a?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://custom-icon-badges.herokuapp.com/badge/-NestJS-e0234e?style=flat&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://custom-icon-badges.herokuapp.com/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://custom-icon-badges.herokuapp.com/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress"/>
