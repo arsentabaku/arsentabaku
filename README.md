@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arsen-tabaku/"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/arsentabaku/" target="_blank" rel="noopener noreferrer"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:arsentabaku2@gmail.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -72,7 +72,7 @@
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/arsentabaku"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arsentabaku" target="_blank" rel="noopener noreferrer"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:arsentabaku2@gmail.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
