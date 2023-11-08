@@ -62,10 +62,10 @@
 
 ### 🖋️ From My Blog
 
-- [🌟 "Angular Alchemy: ✨ Magical Best Practices for Spellbinding Apps!"](https://arsentabaku.github.io/blog/angular-best-practices.html)
-- [🪶 "NestJS Mastery: Unleashing the Hero 🦸‍♂️ within with Elite Best Practices!"](https://arsentabaku.github.io/blog/nestjs-best-practices.html)
-- [🧽 "Code Hygiene: The Art 🎨 of Maintaining Clean and Pristine Codebases!"](https://arsentabaku.github.io/blog/clean-code-importance.html)
-- [🏛️ "Architecting the Future: Crafting 🛠️ Robust Software with Visionary Planning!"](https://arsentabaku.github.io/blog/software-planning-and-architecture.html)
+- [🌟 Angular Awesomeness: Top 🥇 Best Practices for Spick-and-Span Code!](https://arsentabaku.github.io/blog/angular-best-practices.html)
+- [🪶 NestJS Mastery: Unleashing the Hero 🦸‍♂️ within with Elite Best Practices!](https://arsentabaku.github.io/blog/nestjs-best-practices.html)
+- [🧽 Code Hygiene: The Art 🎨 of Maintaining Clean and Pristine Codebases!](https://arsentabaku.github.io/blog/clean-code-importance.html)
+- [🏛️ Architecting the Future: Crafting 🛠️ Robust Software with Visionary Planning!](https://arsentabaku.github.io/blog/software-planning-and-architecture.html)
 
 ---
 
